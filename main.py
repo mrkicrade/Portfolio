@@ -14,3 +14,9 @@ with col2:
     on line školi programiranja "Danilo Vešović. 
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have build in Python. Please, feel free to contact me.
+"""
+
+st.write(content2)
